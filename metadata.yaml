@@ -17,6 +17,8 @@ creator:
 description: "\"The Shunned House\" is a horror fiction novelette by American author\
   \ H. P. Lovecraft, written on October 16–19, 1924. It was first published in the\
   \ October 1937 issue of Weird Tales.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31469#The-Shunned-House
 gutenberg_bookshelf:
 - Science Fiction
 - Horror
